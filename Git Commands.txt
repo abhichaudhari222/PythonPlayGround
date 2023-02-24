@@ -1,0 +1,11 @@
+1.Create Folder In C Drive>Folder In That
+ 
+2.open terminal peast that clone link
+
+3.cd SPACE TAB (Take that Project Name)
+
+4.git branch(will give in which banch you are)
+
+5.git checkout dev(will take you to dev brnach)
+
+6.git pull(will load Updated Code) 
