@@ -1,0 +1,1 @@
+print("\N{victory hand}")
